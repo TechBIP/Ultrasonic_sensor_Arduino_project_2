@@ -3,9 +3,9 @@ This Project Repository is about How to interface an Ultrasonic Sensor with an a
 # Software Required:-
 NOTE:---- This project can be prepared both by Hardware as well as software, For hardware makesure you have all the required components and ARDUINO IDE installed for running the code. 
 For Software:-
-[1.] To, run this Arduino circuits , one need to have an account in the tinkercad website available in google or any search engine. 
-[2.] After making the account, one can click on "create" option available there on the home page and then click on circuit design.
-[3.] On the circuit design page, from the right side tab of lists of componenets, select the components required for your circuit design and 
+1. To, run this Arduino circuits , one need to have an account in the tinkercad website available in google or any search engine. 
+2. After making the account, one can click on "create" option available there on the home page and then click on circuit design.
+3. On the circuit design page, from the right side tab of lists of componenets, select the components required for your circuit design and 
 then drag and drop that circuit components to the blank area, in order to create the design there.
 # Cicuit connection:-
 The circuit connection for interfacing an ultrasonic sensor with Arduino uno is attached and already uploaded in the Repository, and  you can view and prepare your own circuit from there.
