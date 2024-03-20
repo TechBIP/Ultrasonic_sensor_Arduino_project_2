@@ -1,5 +1,5 @@
 # Ultrasonic_sensor
-This Project Repository is about How to interface an Ultrasonic Sensor with an arduino using tinker. 
+This Project Repository is about How to interface an Ultrasonic Sensor with an arduino using tinkercad. 
 # Software Required:-
 NOTE:---- This project can be prepared both by Hardware as well as software, For hardware makesure you have all the required components and ARDUINO IDE installed for running the code. 
 For Software:-
